@@ -1,0 +1,11 @@
+{
+  "url": "https://vk.com/",
+  "urlApi" : "https://api.vk.com/",
+  "methodApiVkPost" : "method/wall.post",
+  "methodApiVkGet" : "method/wall.getById",
+  "methodApiVkEdit" : "method/wall.edit",
+  "methodUploadPhoto" : "method/photos.getWallUploadServer",
+  "methodSaveWallPhoto" : "method/photos.saveWallPhoto",
+  "methodCreateComment" : "method/wall.createComment",
+  "methodWallDelete" : "method/wall.delete"
+}
